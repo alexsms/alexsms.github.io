@@ -1,0 +1,961 @@
+/*
+
+*/
+
+.version.oplata /* version checker */
+{
+	color: #000009;
+	background-color: #8285A0;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/geometry.jpg") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -36px;
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
+#u1079-5
+{
+	z-index: 81;
+	width: 889px;
+	min-height: 41px;
+	background-color: transparent;
+	line-height: 60px;
+	text-align: center;
+	font-size: 50px;
+	color: #10A6C3;
+	font-family: '__NovitoNova_5';
+	font-weight: 400;
+	margin-left: 36px;
+	position: relative;
+}
+
+#u1079-2
+{
+	color: #D83F6E;
+}
+
+#u1078
+{
+	z-index: 2;
+	width: 582px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 189px;
+	margin-top: 3px;
+	position: relative;
+}
+
+#u711
+{
+	z-index: 3;
+	width: 578px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-width: 2px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	border-radius: 7px;
+	padding-bottom: 35px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1069
+{
+	z-index: 6;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 22px;
+}
+
+#u1075
+{
+	z-index: 4;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 319px;
+}
+
+#widgetu564
+{
+	z-index: 8;
+	width: 0.01px;
+	height: 250px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 160px;
+	left: 136px;
+}
+
+#u569-4
+{
+	z-index: 9;
+	width: 200px;
+	min-height: 21px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	padding-top: 4px;
+	font-size: 12px;
+	line-height: 14px;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 226px;
+	left: 55px;
+}
+
+#widgetu564.frm-sub-st #u569-4 p
+{
+	color: #999999;
+	text-align: center;
+	line-height: 1;
+	font-size: 14px;
+	font-family: pt-sans-narrow, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#u575-4
+{
+	z-index: 13;
+	width: 200px;
+	min-height: 21px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	padding-top: 4px;
+	line-height: 14px;
+	font-size: 12px;
+	color: #FF0000;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 226px;
+	left: 55px;
+}
+
+#widgetu564.frm-subm-err-st #u575-4 p
+{
+	color: #D7244C;
+	text-align: center;
+	line-height: 1;
+	font-size: 14px;
+	font-family: pt-sans-narrow, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#u570-4
+{
+	z-index: 17;
+	width: 200px;
+	min-height: 21px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	padding-top: 4px;
+	line-height: 12px;
+	font-size: 12px;
+	color: #00FF00;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 226px;
+	left: 55px;
+}
+
+#widgetu564.frm-sub-st #u569-4,#widgetu564.frm-subm-err-st #u575-4,#widgetu564.frm-subm-ok-st #u570-4
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	min-height: 25px;
+}
+
+#widgetu564.frm-subm-ok-st #u570-4 p
+{
+	color: #999999;
+	text-align: center;
+	font-size: 14px;
+	font-family: pt-sans-narrow, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#u576-17
+{
+	z-index: 21;
+	min-height: 50px;
+	width: 165px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 174px;
+	left: 75px;
+	background: url("../images/u576-17.png") no-repeat 0px 0px;
+}
+
+#u576-17:hover
+{
+	background: url("../images/u576-17-r.png") no-repeat 0px 0px;
+}
+
+#u576-17:active
+{
+	background: url("../images/u576-17-m.png") no-repeat 0px 0px;
+}
+
+#widgetu564.frm-sub-st #u576-17
+{
+	background: url("../images/u576-17-fs.png") no-repeat 0px 0px;
+}
+
+#widgetu665
+{
+	z-index: 38;
+	width: 172px;
+	height: 33px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -2px;
+	left: 65px;
+}
+
+#widgetu665.fld-err-st
+{
+	background-color: transparent;
+	border-radius: 0px;
+	width: 172px;
+	height: 33px;
+	min-height: 0px;
+	margin: -2px -10000px 0px 0px;
+}
+
+#u668-4
+{
+	z-index: 39;
+	width: 70px;
+	min-height: 30px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 30px;
+	text-align: center;
+	font-size: 30px;
+	color: #F7931E;
+	font-family: '__BravoRG_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+}
+
+#widgetu665.fld-err-st #u668-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 30px;
+	width: 70px;
+	margin: 3px -10000px 0px 0px;
+}
+
+#widgetu665.fld-err-st #u668-4 p,#widgetu665.fld-err-st #u668-4 span
+{
+	color: #D7244C;
+}
+
+#u667-4
+{
+	z-index: 43;
+	width: 78px;
+	min-height: 16px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #F7931E;
+	background-color: #FFFFFF;
+	border-radius: 7px;
+	padding: 6px;
+	line-height: 16px;
+	text-align: center;
+	font-size: 16px;
+	color: #F7931E;
+	font-family: pt-sans-narrow, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 78px;
+}
+
+#widgetu665.non-empty-st #u667-4
+{
+	background-color: #FFFFFF;
+}
+
+#widgetu665:hover #u667-4
+{
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-color: #10A6C3;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	min-height: 16px;
+	width: 78px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#widgetu665.focus-st #u667-4
+{
+	-pie-box-shadow: none;
+	box-shadow: none;
+	border-color: #6B6B6B;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	min-height: 16px;
+	width: 78px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#widgetu665.fld-err-st #u667-4
+{
+	-pie-box-shadow: none;
+	box-shadow: none;
+	border-color: #D7244C;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	min-height: 16px;
+	width: 78px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#widgetu665.non-empty-st #u667-4 *
+{
+	color: #4F4F4F;
+	font-style: normal;
+}
+
+#widgetu665:hover #u667-4 *
+{
+	color: #4BBBD1;
+	font-style: normal;
+}
+
+#widgetu665.focus-st #u667-4 *
+{
+	color: #4F4F4F;
+	font-style: normal;
+}
+
+#widgetu665.fld-err-st #u667-4 *
+{
+	color: #D7244C;
+	font-style: normal;
+}
+
+#widgetu665_input,#widgetu665_prompt
+{
+	width: 78px;
+	min-height: 16px;
+	color: #F7931E;
+	text-align: center;
+	font-family: pt-sans-narrow, sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 6px;
+}
+
+#widgetu665.focus-st #widgetu665_prompt
+{
+	padding-top: 6px;
+	padding-bottom: 6px;
+	visibility: hidden;
+}
+
+#widgetu665:hover #widgetu665_input,#widgetu665.focus-st #widgetu665_input,#widgetu665.fld-err-st #widgetu665_input,#widgetu665:hover #widgetu665_prompt,#widgetu665.fld-err-st #widgetu665_prompt
+{
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+#widgetu665.non-empty-st #widgetu665_prompt
+{
+	visibility: hidden;
+}
+
+#widgetu920
+{
+	z-index: 47;
+	width: 310px;
+	height: 30px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 108px;
+}
+
+#widgetu920.fld-err-st
+{
+	background-color: transparent;
+	border-radius: 0px;
+	width: 310px;
+	height: 30px;
+	min-height: 0px;
+	margin: 108px -10000px 0px 0px;
+}
+
+#widgetu924
+{
+	z-index: 48;
+	width: 30px;
+	height: 30px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 140px;
+}
+
+#u927
+{
+	z-index: 49;
+	width: 30px;
+	height: 30px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u927 input.not_checked + label
+{
+	background: transparent url("../images/radiobuttonunchecked.png") no-repeat center center;
+	background-size: contain;
+}
+#u927 input:not(:checked) + label
+{
+	background: transparent url("../images/radiobuttonunchecked.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u927 input.checked + label
+{
+	background: transparent url("../images/radiobuttonchecked.png") no-repeat center center;
+	background-size: contain;
+}
+#u927 input:checked + label
+{
+	background: transparent url("../images/radiobuttonchecked.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u927 input.not_checked:hover + label,#widgetu924.focus-st #u927 input.not_checked + label
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	background: transparent url("../images/radiobuttonuncheckedrollover.png") no-repeat center center;
+	background-size: contain;
+}
+#u927 input:not(:checked):hover + label,#widgetu924.focus-st #u927 input:not(:checked) + label
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	background: transparent url("../images/radiobuttonuncheckedrollover.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u927 input.checked:hover + label,#widgetu924.focus-st #u927 input.checked + label
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	background: transparent url("../images/radiobuttoncheckedrollover.png") no-repeat center center;
+	background-size: contain;
+}
+#u927 input:checked:hover + label,#widgetu924.focus-st #u927 input:checked + label
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	background: transparent url("../images/radiobuttoncheckedrollover.png") no-repeat center center;
+	background-size: contain;
+}
+
+#widgetu946
+{
+	z-index: 50;
+	width: 30px;
+	height: 30px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 280px;
+}
+
+#u948
+{
+	z-index: 51;
+	width: 30px;
+	height: 30px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u948 input.not_checked + label
+{
+	background: transparent url("../images/radiobuttonunchecked.png") no-repeat center center;
+	background-size: contain;
+}
+#u948 input:not(:checked) + label
+{
+	background: transparent url("../images/radiobuttonunchecked.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u948 input.checked + label
+{
+	background: transparent url("../images/radiobuttonchecked.png") no-repeat center center;
+	background-size: contain;
+}
+#u948 input:checked + label
+{
+	background: transparent url("../images/radiobuttonchecked.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u948 input.not_checked:hover + label,#widgetu946.focus-st #u948 input.not_checked + label
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	background: transparent url("../images/radiobuttonuncheckedrollover.png") no-repeat center center;
+	background-size: contain;
+}
+#u948 input:not(:checked):hover + label,#widgetu946.focus-st #u948 input:not(:checked) + label
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	background: transparent url("../images/radiobuttonuncheckedrollover.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u948 input.checked:hover + label,#widgetu946.focus-st #u948 input.checked + label
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	background: transparent url("../images/radiobuttoncheckedrollover.png") no-repeat center center;
+	background-size: contain;
+}
+#u948 input:checked:hover + label,#widgetu946.focus-st #u948 input:checked + label
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	background: transparent url("../images/radiobuttoncheckedrollover.png") no-repeat center center;
+	background-size: contain;
+}
+
+#widgetu1061
+{
+	z-index: 52;
+	width: 30px;
+	height: 30px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#widgetu924.fld-err-st,#widgetu946.fld-err-st,#widgetu1061.fld-err-st
+{
+	background-color: transparent;
+	border-radius: 0px;
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1063
+{
+	z-index: 53;
+	width: 30px;
+	height: 30px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1063 input.checked + label
+{
+	background: transparent url("../images/radiobuttonchecked.png") no-repeat center center;
+	background-size: contain;
+}
+#u1063 input:checked + label
+{
+	background: transparent url("../images/radiobuttonchecked.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u1063 input.not_checked + label
+{
+	background: transparent url("../images/radiobuttonunchecked.png") no-repeat center center;
+	background-size: contain;
+}
+#u1063 input:not(:checked) + label
+{
+	background: transparent url("../images/radiobuttonunchecked.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u927 input.not_checked:active + label,#u948 input.not_checked:active + label,#u1063 input.not_checked:active + label
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	background: transparent url("../images/radiobuttonuncheckedmousedown.png") no-repeat center center;
+	background-size: contain;
+}
+#u927 input:not(:checked):active + label,#u948 input:not(:checked):active + label,#u1063 input:not(:checked):active + label
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	background: transparent url("../images/radiobuttonuncheckedmousedown.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u927 input.checked:active + label,#u948 input.checked:active + label,#u1063 input.checked:active + label
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	background: transparent url("../images/radiobuttoncheckedmousedown.png") no-repeat center center;
+	background-size: contain;
+}
+#u927 input:checked:active + label,#u948 input:checked:active + label,#u1063 input:checked:active + label
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	background: transparent url("../images/radiobuttoncheckedmousedown.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u1063 input.not_checked:hover + label,#widgetu1061.focus-st #u1063 input.not_checked + label
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	background: transparent url("../images/radiobuttonuncheckedrollover.png") no-repeat center center;
+	background-size: contain;
+}
+#u1063 input:not(:checked):hover + label,#widgetu1061.focus-st #u1063 input:not(:checked) + label
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	background: transparent url("../images/radiobuttonuncheckedrollover.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u1063 input.checked:hover + label,#widgetu1061.focus-st #u1063 input.checked + label
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	background: transparent url("../images/radiobuttoncheckedrollover.png") no-repeat center center;
+	background-size: contain;
+}
+#u1063 input:checked:hover + label,#widgetu1061.focus-st #u1063 input:checked + label
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	background: transparent url("../images/radiobuttoncheckedrollover.png") no-repeat center center;
+	background-size: contain;
+}
+
+#widgetu924_input,#widgetu946_input,#widgetu1061_input
+{
+	width: 30px;
+	height: 30px;
+}
+
+#u712-4
+{
+	z-index: 54;
+	width: 276px;
+	min-height: 42px;
+	background-color: transparent;
+	line-height: 48px;
+	text-align: center;
+	font-size: 40px;
+	color: #10A6C3;
+	font-family: '__BravoRG_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 33px;
+	left: 153px;
+}
+
+#u713-4
+{
+	z-index: 58;
+	width: 228px;
+	min-height: 33px;
+	background-color: transparent;
+	line-height: 42px;
+	text-align: center;
+	font-size: 35px;
+	color: #D83F6E;
+	font-family: '__BravoRG_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 81px;
+	left: 177px;
+}
+
+#u717
+{
+	z-index: 62;
+	width: 415px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 227px;
+	left: 84px;
+}
+
+#u710
+{
+	z-index: 63;
+	width: 129px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u700
+{
+	z-index: 64;
+	width: 125px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-width: 2px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	border-radius: 7px;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u670
+{
+	z-index: 65;
+	width: 83px;
+	background-color: #FFFFFF;
+	border-radius: 7px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 21px;
+}
+
+#u670 .clip_frame
+{
+	-webkit-border-radius: 7px 7px 7px 7px;
+}
+
+#u715
+{
+	z-index: 71;
+	width: 129px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 143px;
+}
+
+#u669
+{
+	z-index: 72;
+	width: 125px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-width: 2px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	border-radius: 7px;
+	padding-bottom: 7px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u676
+{
+	z-index: 73;
+	width: 17px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 3px;
+}
+
+#u682
+{
+	z-index: 75;
+	width: 17px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 27px;
+}
+
+#u688
+{
+	z-index: 77;
+	width: 23px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 50px;
+}
+
+#u694
+{
+	z-index: 79;
+	width: 42px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 80px;
+}
+
+#u714
+{
+	z-index: 67;
+	width: 129px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 286px;
+}
+
+#u701
+{
+	z-index: 68;
+	width: 125px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-width: 2px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	border-radius: 7px;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u702
+{
+	z-index: 69;
+	width: 83px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 23px;
+}
+
+@font-face
+{
+	font-family: '__BravoRG_5';
+	src: url('../fonts/bravorg.eot');
+	src: local('☺'), url('../fonts/bravorg.woff') format('woff'), url('../fonts/bravorg.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__NovitoNova_5';
+	src: url('../fonts/novitonova-regular.eot');
+	src: local('☺'), url('../fonts/novitonova-regular.woff') format('woff'), url('../fonts/novitonova-regular.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
